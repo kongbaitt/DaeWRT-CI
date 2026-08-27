@@ -85,6 +85,7 @@ UPDATE_PACKAGE "luci-app-daed" "QiuSimons/luci-app-daed" "kix"
 UPDATE_PACKAGE "luci-app-dae" "davidtall/luci-app-dae" "kix"
 UPDATE_PACKAGE "luci-app-pushbot" "zzsj0928/luci-app-pushbot" "master"
 UPDATE_PACKAGE "luci-app-nginx-manager" "hello-yunshu/luci-app-nginx-manager" "main"
+UPDATE_PACKAGE "luci-app-lucky" "sirpdboy/luci-app-lucky" "main"
 #更新软件包版本
 UPDATE_VERSION() {
 	local PKG_NAME=$1
